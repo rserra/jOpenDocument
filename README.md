@@ -1,6 +1,6 @@
 # jOpenDocument for
 
-This is fork for jOpenDocument from http://www.jopendocument.org/
+This is fork of jOpenDocument project from http://www.jopendocument.org/
 
 ## Change list
 
